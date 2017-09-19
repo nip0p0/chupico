@@ -1,1 +1,1 @@
-# chupiko
+# chupico
